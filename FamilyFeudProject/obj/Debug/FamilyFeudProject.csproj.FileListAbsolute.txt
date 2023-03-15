@@ -1,0 +1,11 @@
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.csproj.AssemblyReference.cache
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.csproj.SuggestedBindingRedirects.cache
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.Properties.Resources.resources
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.csproj.GenerateResource.cache
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.csproj.CoreCompileInputs.cache
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\bin\Debug\FamilyFeudProject.exe.config
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\bin\Debug\FamilyFeudProject.exe
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\bin\Debug\FamilyFeudProject.pdb
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.exe
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.pdb
+C:\Git Repos\FamilyFeudProject\FamilyFeudProject\obj\Debug\FamilyFeudProject.Form1.resources
