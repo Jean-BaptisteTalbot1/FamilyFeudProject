@@ -1,0 +1,15 @@
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Git Repos\FamilyFeud\WpfVersion\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
